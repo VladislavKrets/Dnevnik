@@ -1,0 +1,21 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Дневник</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="diary">Мой дневник</string>
+    <string name="marks">Мои оценки</string>
+    <string name="homework">Мои домашние задания</string>
+    <string name="title_activity_navigation">Главная</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="enter">Войти</string>
+    <string name="main">Главная</string>
+    <string name="myDiary">Мой дневник</string>
+    <string name="myMarks">Мои оценки</string>
+    <string name="myHomework">Мои домашние задания</string>
+    <string name="profile">Профиль</string>
+    <string name="exit">Выход</string>
+    <string name="friends">Мои друзья</string>
+    <string name="messages">Мои сообщения</string>
+</resources>
